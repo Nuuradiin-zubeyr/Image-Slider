@@ -1,3 +1,3 @@
-This Simple Image Slider 
+This is Simple Image Slider 
 https://nuuradiin-zubeyr.github.io/Image-Slider/
 click  this link to see
